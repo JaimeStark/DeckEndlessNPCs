@@ -7,7 +7,7 @@ redistribute it under certain conditions.
 See 'LICENSE.txt' for details.
 
 This script uses trademarks and/or copyrights owned by Paizo Inc.,
-used under Paizo's Community Use Policy (paizo.com/communityuse). 
+used under [Paizo's Community Use Policy](https://paizo.com/communityuse). 
 I am expressly prohibited from charging you to use or access this
 content.  This script is not published, endorced, or specifically
 approved by Paizo.  For more information about Paizo Inc. and
