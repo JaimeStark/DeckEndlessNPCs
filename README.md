@@ -29,5 +29,4 @@ to establish the path or name of the folder with the JPEG images.
 By default, this folder is named "**PathfinderDeckOfEndlessNPCsDownload-JPGs**."
 
 ## Usage
-python3 decknpc.py
-"""
+`python3 decknpc.py`
