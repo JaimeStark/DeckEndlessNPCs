@@ -9,7 +9,7 @@ See 'LICENSE.txt' for details.
 This script uses trademarks and/or copyrights owned by Paizo Inc.,
 used under [Paizo's Community Use Policy](https://paizo.com/communityuse). 
 I am expressly prohibited from charging you to use or access this
-content.  This script is not published, endorced, or specifically
+content.  This script is not published, endorsed, or specifically
 approved by Paizo.  For more information about Paizo Inc. and
 Paizo products, visit [paizo.com](https://paizo.com).
 
