@@ -17,6 +17,8 @@ Paizo products, visit [paizo.com](https://paizo.com).
 DeckEndlessNPCs is a script for digitally generating an NPC based on
 [Paizo's Deck of Endless NPCs](https://paizo.com/products/btq02d82?Pathfinder-Deck-of-Endless-NPCs).
 
+![Example](example.png)
+
 To use this script, you must own a digital copy of the Deck of
 Endless NPCs.  The script generates an image of four cards overlapped
 according to the rules of the Deck of Endless NPCs for generating
