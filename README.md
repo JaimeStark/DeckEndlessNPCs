@@ -26,9 +26,9 @@ an NPC.
 
 Place the folder containing the digital copy of the Deck of Endless
 NPCs in JPEG format (.jpg), as downloaded from Paizo, in the same
-folder as the decknpc.py file.  In the decknpc.py file, edit PATH
-to establish the path or name of the folder with the JPEG images.
-By default, this folder is named "**PathfinderDeckOfEndlessNPCsDownload-JPGs**."
+folder as the decknpc.py file. By default, this folder is named 
+"**PathfinderDeckOfEndlessNPCsDownload-JPGs**."  If your folder has a
+different name or path, add as argument to script execution.
 
 ## Usage
-`python3 decknpc.py`
+`python3 decknpc.py [CARD JPG FOLDER]`
